@@ -1,13 +1,24 @@
-# python==3.7.10
 certifi==2020.12.5
 click==7.1.2
+fastapi==0.63.0
 Flask==1.1.2
+h11==0.12.0
+httptools==0.1.2
 itsdangerous==1.1.0
 Jinja2==2.11.3
 joblib==1.0.1
 MarkupSafe==1.1.1
 nltk==3.6.2
+pydantic==1.8.1
+python-dotenv==0.17.1
+PyYAML==5.4.1
 regex==2021.4.4
+starlette==0.13.6
 textblob==0.15.3
 tqdm==4.60.0
+typing-extensions==3.10.0.0
+uvicorn==0.13.4
+uvloop==0.15.2
+watchgod==0.7
+websockets==8.1
 Werkzeug==1.0.1
