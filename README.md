@@ -1,2 +1,2 @@
-# mlops
+# MLOps
 Learning Flask and MLOps
